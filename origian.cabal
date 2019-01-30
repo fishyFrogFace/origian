@@ -4,16 +4,15 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 6c5ad9a6c90370ceecea7c25eb8a77fd917a28dd5812d139e96835f5d2e8aff5
+-- hash: 22d1e1177b926f6215ededff9aad3268f11c879ef000faa644e37482268d418f
 
 name:           origian
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/githubuser/origians#readme>
-homepage:       https://github.com/githubuser/origian#readme
-bug-reports:    https://github.com/githubuser/origian/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2019 Author name here
+description:    Please see the README on GitHub at <https://github.com/fishyfrogface/origian#readme>
+homepage:       https://github.com/fishyfrogface/origian#readme
+bug-reports:    https://github.com/fishyfrogface/origian/issues
+author:         Camilla Rygh
+copyright:      2019 Camilla Rygh
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
@@ -23,7 +22,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/origian
+  location: https://github.com/fishyfrogface/origian
 
 library
   exposed-modules:
